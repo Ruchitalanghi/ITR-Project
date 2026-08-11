@@ -1,0 +1,6 @@
+Python
+Pandas 
+NumPy
+Pickle
+Scikit-learn
+Streamlit Framework
